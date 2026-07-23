@@ -1,5 +1,7 @@
 # 🚗 Smart Parking Prototype
 
+https://github.com/zdanler/smart-parking-system
+
 A real-time app that watches a parking lot through your webcam and tells you which spots are **free** or **taken** using AI object detection. It's built as a simple learning project for combining computer vision (YOLOv8) with an interactive web dashboard (Streamlit).
 
 ---
